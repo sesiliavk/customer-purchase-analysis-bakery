@@ -1,0 +1,501 @@
+Age,Gender,Items_Purchased,Amount_Spent,Purchase_Date,Time_of_Purchase,Loyalty_Member,Payment_Method
+22,Female,5,48.75,2024-08-02,Afternoon,Yes,Mobile Payment
+23,Female,4,39.32,2024-09-15,Morning,No,Mobile Payment
+64,Non-binary,16,136.53,2024-08-07,Morning,No,Cash
+32,Female,9,68.82,2024-09-18,Morning,Yes,Cash
+19,Female,16,95.18,2024-05-05,Evening,No,Cash
+41,Female,6,83.62,2024-09-04,Morning,No,Cash
+27,Female,1,14.18,2024-05-10,Evening,No,Cash
+63,Male,13,73.08,2024-06-14,Morning,Yes,Mobile Payment
+41,Male,17,306.39,2024-10-01,Evening,Yes,Cash
+19,Non-binary,16,187.57,2024-04-24,Afternoon,No,Cash
+33,Female,10,180.85,2024-05-30,Afternoon,No,Mobile Payment
+32,Female,19,288.06,2024-08-27,Afternoon,Yes,Cash
+53,Female,3,51.08,2024-07-20,Evening,Yes,Cash
+48,Female,15,104.73,2024-06-25,Afternoon,Yes,Cash
+62,Non-binary,5,51.74,2024-07-23,Morning,Yes,Cash
+57,Male,5,64.37,2024-06-25,Morning,Yes,Card
+36,Non-binary,3,42.09,2024-08-24,Afternoon,Yes,Card
+37,Non-binary,17,132.24,2024-07-15,Evening,No,Cash
+67,Non-binary,17,294.45,2024-06-17,Afternoon,No,Card
+51,Non-binary,1,15.91,2024-09-12,Evening,Yes,Cash
+68,Female,5,52.73,2024-08-12,Evening,No,Mobile Payment
+43,Female,5,75.48,2024-08-27,Evening,Yes,Cash
+29,Non-binary,12,227.87,2024-04-18,Evening,No,Cash
+34,Male,5,54.98,2024-06-20,Morning,No,Cash
+67,Female,11,164.42,2024-05-12,Evening,Yes,Cash
+62,Female,20,243.08,2024-04-18,Evening,No,Card
+40,Male,10,134.87,2024-05-15,Evening,No,Cash
+68,Non-binary,9,83.57,2024-04-21,Evening,Yes,Card
+48,Non-binary,4,34.8,2024-07-12,Evening,No,Mobile Payment
+26,Non-binary,6,62.01,2024-07-19,Morning,No,Cash
+36,Female,18,225.09,2024-05-16,Morning,No,Cash
+38,Female,4,41.79,2024-06-05,Morning,Yes,Cash
+42,Male,3,59.19,2024-10-06,Morning,Yes,Mobile Payment
+33,Male,19,343.36,2024-08-04,Afternoon,No,Mobile Payment
+47,Female,14,254.85,2024-05-10,Evening,No,Card
+58,Non-binary,1,12.08,2024-06-02,Morning,No,Mobile Payment
+44,Non-binary,17,322.37,2024-08-17,Afternoon,No,Cash
+39,Non-binary,14,90.54,2024-06-11,Afternoon,No,Cash
+53,Female,7,60.68,2024-08-02,Morning,No,Card
+20,Female,2,20.17,2024-05-31,Morning,Yes,Card
+55,Female,15,120.95,2024-07-10,Evening,No,Mobile Payment
+55,Female,4,31.99,2024-06-14,Evening,Yes,Cash
+68,Non-binary,8,95.42,2024-06-29,Evening,No,Mobile Payment
+27,Male,2,39.65,2024-05-10,Evening,Yes,Card
+34,Non-binary,16,263.32,2024-04-21,Evening,Yes,Card
+51,Female,15,268.56,2024-06-25,Evening,No,Cash
+40,Male,2,18.19,2024-05-14,Afternoon,Yes,Mobile Payment
+20,Female,18,249.88,2024-08-29,Afternoon,Yes,Cash
+54,Non-binary,17,221.25,2024-07-18,Evening,Yes,Cash
+44,Male,3,44.43,2024-05-11,Afternoon,Yes,Card
+41,Non-binary,12,229.79,2024-06-09,Afternoon,Yes,Cash
+25,Male,17,103.45,2024-06-17,Morning,No,Mobile Payment
+18,Non-binary,1,14.2,2024-06-06,Evening,No,Cash
+44,Female,5,92.48,2024-05-19,Morning,No,Cash
+40,Male,12,217.47,2024-07-10,Evening,Yes,Mobile Payment
+20,Female,13,161.96,2024-05-23,Morning,Yes,Cash
+18,Non-binary,4,48.81,2024-04-27,Afternoon,Yes,Card
+58,Male,8,96.37,2024-07-11,Afternoon,Yes,Mobile Payment
+65,Female,3,33.3,2024-07-12,Evening,Yes,Mobile Payment
+37,Male,17,249.89,2024-04-28,Afternoon,Yes,Cash
+36,Female,8,96.93,2024-06-22,Morning,No,Card
+39,Non-binary,4,46.19,2024-09-28,Evening,Yes,Card
+40,Non-binary,3,18.06,2024-08-26,Evening,No,Card
+46,Female,18,148.22,2024-09-26,Morning,No,Card
+67,Female,10,143.85,2024-05-30,Morning,Yes,Mobile Payment
+63,Female,16,80.41,2024-07-22,Evening,No,Mobile Payment
+67,Non-binary,4,52.76,2024-07-10,Evening,Yes,Card
+57,Male,13,114.5,2024-06-19,Afternoon,No,Card
+46,Non-binary,5,29.23,2024-09-17,Afternoon,No,Card
+60,Non-binary,17,128.28,2024-09-10,Afternoon,Yes,Mobile Payment
+42,Male,13,220.11,2024-08-28,Afternoon,Yes,Mobile Payment
+39,Male,5,64.1,2024-07-26,Morning,Yes,Mobile Payment
+40,Non-binary,6,103.11,2024-06-29,Evening,No,Mobile Payment
+42,Female,13,245.9,2024-10-07,Afternoon,Yes,Card
+19,Female,3,19.3,2024-06-20,Evening,No,Mobile Payment
+56,Female,13,175.49,2024-07-19,Morning,Yes,Mobile Payment
+37,Female,13,226.33,2024-09-08,Afternoon,Yes,Card
+50,Male,19,200.78,2024-08-29,Morning,No,Card
+22,Non-binary,2,11.96,2024-06-23,Morning,No,Mobile Payment
+30,Male,9,85.3,2024-09-13,Afternoon,Yes,Card
+21,Non-binary,7,59.69,2024-08-18,Afternoon,No,Card
+67,Female,8,153.92,2024-09-24,Afternoon,Yes,Card
+47,Male,7,74.3,2024-06-12,Evening,Yes,Mobile Payment
+37,Female,18,112.09,2024-04-22,Evening,Yes,Cash
+21,Female,12,96.25,2024-05-27,Evening,No,Card
+25,Male,10,167.23,2024-05-30,Afternoon,Yes,Mobile Payment
+51,Non-binary,20,109.89,2024-04-17,Afternoon,Yes,Mobile Payment
+41,Male,15,225.73,2024-09-15,Afternoon,No,Mobile Payment
+31,Male,5,27.41,2024-07-23,Evening,No,Cash
+61,Female,18,166.98,2024-06-14,Evening,Yes,Cash
+64,Female,17,111.58,2024-07-13,Morning,No,Mobile Payment
+51,Female,10,51.66,2024-04-18,Morning,Yes,Cash
+43,Female,2,12.47,2024-04-15,Evening,Yes,Cash
+27,Male,3,16.82,2024-05-31,Afternoon,Yes,Card
+57,Female,17,237.57,2024-07-16,Afternoon,No,Mobile Payment
+62,Non-binary,2,35.21,2024-06-16,Morning,Yes,Cash
+30,Male,20,193.2,2024-08-18,Afternoon,Yes,Card
+70,Female,5,48.07,2024-06-11,Afternoon,No,Mobile Payment
+64,Male,10,98.38,2024-07-04,Afternoon,Yes,Card
+32,Female,9,112.46,2024-06-23,Evening,Yes,Cash
+22,Non-binary,8,106.11,2024-06-12,Evening,Yes,Card
+31,Male,3,47.99,2024-05-21,Evening,Yes,Card
+23,Non-binary,9,60.7,2024-06-18,Morning,Yes,Mobile Payment
+30,Non-binary,1,10.35,2024-09-11,Afternoon,No,Mobile Payment
+65,Non-binary,9,167.08,2024-09-24,Morning,No,Mobile Payment
+68,Male,6,119.01,2024-06-22,Evening,Yes,Mobile Payment
+70,Female,12,164.59,2024-07-18,Afternoon,Yes,Card
+51,Female,1,13.72,2024-09-20,Morning,Yes,Card
+26,Male,12,220.11,2024-05-24,Evening,Yes,Cash
+20,Male,19,370.93,2024-06-14,Afternoon,Yes,Card
+51,Female,13,113.12,2024-08-21,Evening,No,Cash
+62,Male,3,43.9,2024-07-08,Afternoon,No,Cash
+25,Male,1,15.85,2024-05-28,Evening,Yes,Cash
+29,Female,17,215.52,2024-06-13,Morning,Yes,Card
+66,Female,12,149.53,2024-09-01,Evening,No,Mobile Payment
+44,Female,5,60.49,2024-06-21,Evening,No,Mobile Payment
+63,Male,10,168.77,2024-08-17,Evening,No,Cash
+56,Female,15,289.04,2024-05-28,Afternoon,Yes,Cash
+47,Male,5,90.01,2024-05-01,Morning,No,Mobile Payment
+36,Female,10,132.04,2024-05-17,Afternoon,No,Cash
+42,Non-binary,19,265.43,2024-07-25,Afternoon,No,Cash
+45,Male,12,111.46,2024-07-15,Morning,Yes,Card
+23,Female,17,298.76,2024-08-05,Morning,No,Mobile Payment
+33,Non-binary,11,114.36,2024-05-29,Morning,No,Cash
+29,Non-binary,12,164.96,2024-09-03,Morning,Yes,Cash
+41,Female,9,87.28,2024-04-10,Afternoon,No,Mobile Payment
+52,Female,20,191.04,2024-05-30,Evening,Yes,Mobile Payment
+58,Male,8,54.9,2024-04-27,Morning,Yes,Mobile Payment
+43,Non-binary,1,9.34,2024-09-23,Afternoon,No,Mobile Payment
+65,Female,2,38.96,2024-04-20,Afternoon,Yes,Cash
+21,Non-binary,9,82.39,2024-07-25,Evening,No,Cash
+27,Female,1,6.5,2024-08-28,Afternoon,Yes,Mobile Payment
+57,Non-binary,12,105.72,2024-08-25,Morning,Yes,Mobile Payment
+43,Non-binary,6,102.66,2024-05-08,Morning,No,Mobile Payment
+36,Non-binary,6,71.95,2024-09-18,Morning,Yes,Mobile Payment
+47,Female,12,80.35,2024-08-23,Morning,No,Card
+46,Male,10,166.19,2024-09-03,Morning,Yes,Cash
+19,Female,1,11.96,2024-07-14,Morning,No,Cash
+24,Female,17,95.01,2024-05-09,Evening,Yes,Mobile Payment
+34,Female,15,229.06,2024-04-26,Afternoon,Yes,Mobile Payment
+54,Female,17,91.32,2024-06-17,Morning,Yes,Cash
+54,Non-binary,8,46.86,2024-08-06,Morning,Yes,Cash
+45,Female,16,305.73,2024-09-26,Evening,No,Cash
+38,Male,9,96.95,2024-06-30,Evening,Yes,Cash
+39,Male,4,32.0,2024-10-05,Evening,Yes,Mobile Payment
+32,Male,10,148.97,2024-08-29,Afternoon,Yes,Cash
+59,Non-binary,2,16.94,2024-04-23,Evening,No,Card
+18,Female,11,135.89,2024-05-25,Afternoon,No,Cash
+22,Non-binary,20,322.3,2024-09-29,Evening,No,Cash
+44,Non-binary,6,41.97,2024-07-19,Evening,Yes,Card
+70,Female,20,367.32,2024-05-01,Morning,No,Card
+64,Male,13,185.49,2024-09-30,Afternoon,Yes,Cash
+69,Male,12,180.49,2024-07-20,Morning,Yes,Cash
+64,Female,3,16.66,2024-05-26,Morning,No,Cash
+48,Female,18,358.04,2024-08-13,Evening,Yes,Card
+36,Male,3,35.96,2024-08-02,Afternoon,No,Cash
+54,Female,14,156.12,2024-09-25,Morning,Yes,Mobile Payment
+54,Non-binary,4,26.1,2024-04-17,Afternoon,Yes,Cash
+54,Male,9,152.24,2024-04-24,Evening,No,Cash
+68,Non-binary,4,36.69,2024-07-11,Morning,Yes,Cash
+66,Non-binary,18,188.35,2024-08-07,Evening,Yes,Cash
+23,Female,20,174.3,2024-04-24,Evening,No,Cash
+34,Female,17,101.79,2024-07-02,Morning,Yes,Card
+54,Female,17,339.55,2024-08-04,Evening,Yes,Mobile Payment
+49,Male,18,282.16,2024-05-05,Evening,No,Cash
+41,Non-binary,6,57.02,2024-05-02,Morning,No,Mobile Payment
+43,Female,17,162.81,2024-04-14,Evening,Yes,Cash
+69,Non-binary,20,392.53,2024-09-19,Morning,No,Mobile Payment
+40,Female,6,87.44,2024-10-07,Evening,Yes,Card
+53,Female,3,24.12,2024-05-24,Morning,No,Mobile Payment
+54,Non-binary,2,15.73,2024-04-19,Evening,No,Mobile Payment
+53,Female,3,39.9,2024-08-21,Morning,Yes,Card
+50,Non-binary,11,182.63,2024-07-05,Evening,Yes,Card
+65,Female,18,175.58,2024-06-03,Evening,Yes,Card
+33,Female,20,208.43,2024-09-01,Evening,No,Cash
+34,Female,7,45.54,2024-04-28,Evening,Yes,Cash
+66,Non-binary,12,197.98,2024-07-04,Afternoon,No,Mobile Payment
+38,Non-binary,4,66.11,2024-07-12,Evening,Yes,Mobile Payment
+52,Non-binary,17,253.84,2024-06-30,Morning,No,Cash
+23,Female,15,91.63,2024-07-04,Evening,No,Cash
+60,Non-binary,11,121.42,2024-08-24,Evening,No,Cash
+68,Male,4,55.2,2024-05-01,Evening,No,Cash
+19,Male,7,52.32,2024-10-07,Morning,No,Cash
+51,Male,18,117.53,2024-06-12,Morning,Yes,Cash
+48,Non-binary,13,156.75,2024-07-13,Afternoon,No,Cash
+65,Male,5,78.85,2024-06-15,Morning,Yes,Card
+61,Male,2,15.89,2024-06-04,Afternoon,Yes,Cash
+18,Non-binary,16,113.46,2024-06-15,Evening,Yes,Cash
+62,Female,6,82.93,2024-05-21,Morning,No,Mobile Payment
+31,Non-binary,8,137.05,2024-04-28,Morning,Yes,Cash
+53,Non-binary,3,43.04,2024-06-10,Afternoon,No,Card
+40,Female,13,98.47,2024-05-31,Morning,Yes,Mobile Payment
+54,Non-binary,3,48.98,2024-06-18,Afternoon,Yes,Mobile Payment
+34,Female,15,206.82,2024-09-26,Morning,Yes,Card
+39,Non-binary,7,110.05,2024-06-22,Morning,No,Cash
+27,Non-binary,16,249.39,2024-07-23,Evening,Yes,Card
+54,Non-binary,17,144.77,2024-06-25,Morning,No,Card
+35,Male,8,148.02,2024-08-20,Morning,No,Cash
+46,Non-binary,2,13.5,2024-04-22,Morning,No,Cash
+25,Male,14,268.65,2024-08-30,Evening,No,Cash
+56,Non-binary,14,122.87,2024-09-23,Evening,No,Card
+31,Non-binary,6,95.21,2024-04-27,Morning,No,Card
+59,Male,20,335.35,2024-07-05,Afternoon,No,Cash
+37,Female,10,116.41,2024-09-19,Morning,No,Mobile Payment
+61,Male,4,34.0,2024-07-06,Morning,No,Card
+66,Female,8,47.91,2024-10-04,Evening,No,Cash
+23,Male,11,94.24,2024-05-25,Morning,Yes,Mobile Payment
+27,Non-binary,18,259.75,2024-05-31,Evening,No,Card
+42,Female,16,232.79,2024-05-27,Afternoon,No,Card
+35,Female,5,74.16,2024-09-27,Evening,Yes,Cash
+33,Male,10,122.92,2024-05-02,Afternoon,No,Card
+45,Female,7,114.01,2024-06-25,Afternoon,No,Card
+69,Male,18,197.15,2024-06-20,Afternoon,Yes,Cash
+26,Female,12,136.82,2024-08-19,Morning,No,Cash
+37,Non-binary,13,233.59,2024-06-07,Evening,No,Mobile Payment
+61,Female,2,10.91,2024-08-07,Evening,Yes,Cash
+63,Female,18,278.71,2024-04-12,Morning,No,Mobile Payment
+22,Female,6,97.87,2024-05-25,Afternoon,Yes,Mobile Payment
+44,Male,20,212.09,2024-06-30,Morning,No,Cash
+69,Male,10,82.54,2024-08-29,Morning,Yes,Card
+57,Male,5,39.88,2024-09-16,Evening,No,Cash
+18,Male,17,274.77,2024-08-14,Morning,No,Cash
+27,Female,5,26.8,2024-08-28,Morning,No,Mobile Payment
+39,Female,2,39.28,2024-07-05,Afternoon,Yes,Card
+59,Female,18,278.19,2024-08-06,Evening,Yes,Cash
+27,Male,3,37.81,2024-09-06,Morning,Yes,Card
+22,Female,14,228.63,2024-10-06,Evening,No,Cash
+63,Non-binary,1,14.43,2024-09-08,Afternoon,No,Cash
+54,Non-binary,13,225.11,2024-06-21,Afternoon,Yes,Cash
+30,Non-binary,6,76.27,2024-06-14,Morning,Yes,Card
+49,Female,18,240.05,2024-07-31,Evening,Yes,Card
+49,Female,18,255.71,2024-06-10,Evening,No,Cash
+44,Non-binary,1,12.33,2024-05-10,Afternoon,No,Card
+53,Non-binary,19,153.84,2024-09-05,Afternoon,No,Mobile Payment
+46,Male,16,291.85,2024-08-31,Evening,No,Card
+27,Female,7,129.29,2024-07-20,Afternoon,Yes,Mobile Payment
+52,Non-binary,6,49.54,2024-05-13,Morning,No,Card
+28,Male,8,81.89,2024-10-01,Evening,No,Card
+50,Non-binary,16,309.03,2024-05-28,Evening,Yes,Cash
+25,Non-binary,18,174.48,2024-08-31,Morning,No,Cash
+66,Male,14,221.93,2024-06-23,Morning,No,Mobile Payment
+25,Non-binary,6,71.4,2024-07-01,Evening,No,Cash
+23,Female,9,127.81,2024-08-25,Evening,No,Cash
+37,Female,16,266.3,2024-04-14,Evening,No,Mobile Payment
+63,Female,14,184.7,2024-06-05,Morning,No,Mobile Payment
+61,Non-binary,18,107.36,2024-10-02,Evening,Yes,Mobile Payment
+30,Non-binary,2,11.37,2024-09-12,Afternoon,No,Mobile Payment
+60,Female,19,130.4,2024-06-30,Afternoon,No,Mobile Payment
+32,Non-binary,4,79.06,2024-08-10,Morning,No,Mobile Payment
+63,Male,12,237.39,2024-08-18,Afternoon,No,Mobile Payment
+55,Male,12,178.27,2024-08-28,Morning,Yes,Cash
+23,Non-binary,18,263.01,2024-08-07,Morning,No,Cash
+31,Non-binary,18,262.25,2024-05-20,Morning,No,Cash
+21,Female,20,281.2,2024-08-22,Morning,Yes,Mobile Payment
+24,Female,10,72.35,2024-09-14,Evening,Yes,Cash
+23,Male,15,179.14,2024-08-15,Evening,Yes,Mobile Payment
+45,Female,10,61.96,2024-08-06,Afternoon,Yes,Cash
+26,Non-binary,4,47.14,2024-05-07,Morning,Yes,Mobile Payment
+67,Non-binary,10,90.15,2024-06-21,Afternoon,No,Mobile Payment
+65,Female,14,211.54,2024-06-27,Evening,No,Cash
+29,Male,13,212.52,2024-07-21,Evening,Yes,Card
+52,Non-binary,3,57.95,2024-08-01,Evening,No,Card
+38,Non-binary,19,210.21,2024-08-29,Evening,No,Card
+60,Non-binary,20,374.12,2024-04-12,Morning,No,Card
+22,Male,10,119.5,2024-07-20,Morning,Yes,Mobile Payment
+56,Male,13,119.49,2024-05-19,Afternoon,Yes,Cash
+55,Male,6,70.86,2024-07-16,Morning,Yes,Cash
+36,Female,19,220.0,2024-09-21,Morning,No,Mobile Payment
+33,Non-binary,7,137.88,2024-08-25,Evening,No,Card
+19,Female,15,297.22,2024-05-14,Morning,Yes,Mobile Payment
+37,Non-binary,17,167.66,2024-04-15,Morning,Yes,Cash
+41,Male,8,105.39,2024-07-29,Evening,Yes,Mobile Payment
+43,Non-binary,5,36.76,2024-05-13,Morning,Yes,Mobile Payment
+55,Non-binary,6,61.36,2024-04-23,Evening,Yes,Card
+24,Male,1,9.04,2024-08-07,Afternoon,No,Card
+19,Male,4,37.24,2024-04-12,Morning,No,Cash
+36,Male,3,59.89,2024-09-07,Afternoon,No,Card
+46,Non-binary,3,56.78,2024-04-21,Morning,No,Card
+31,Non-binary,2,14.38,2024-05-01,Afternoon,No,Card
+35,Male,13,106.33,2024-08-10,Morning,Yes,Card
+41,Male,16,194.92,2024-06-26,Evening,No,Card
+57,Non-binary,5,64.26,2024-08-09,Morning,No,Mobile Payment
+40,Male,11,59.99,2024-05-23,Afternoon,Yes,Cash
+48,Male,7,42.96,2024-07-26,Morning,No,Card
+64,Female,19,259.32,2024-07-15,Evening,Yes,Cash
+37,Female,18,95.31,2024-07-23,Afternoon,No,Card
+35,Male,8,124.74,2024-04-14,Evening,Yes,Card
+21,Non-binary,3,39.26,2024-09-09,Evening,Yes,Mobile Payment
+45,Male,2,37.1,2024-04-17,Morning,No,Cash
+51,Male,3,50.32,2024-07-22,Evening,No,Cash
+27,Female,11,70.71,2024-05-26,Afternoon,Yes,Cash
+44,Male,16,313.09,2024-04-28,Afternoon,No,Mobile Payment
+44,Male,20,209.39,2024-10-04,Afternoon,Yes,Cash
+67,Male,11,106.11,2024-08-04,Morning,Yes,Card
+53,Male,19,377.99,2024-06-13,Morning,Yes,Mobile Payment
+25,Female,11,124.44,2024-07-26,Morning,No,Cash
+38,Non-binary,10,69.97,2024-10-01,Evening,No,Mobile Payment
+46,Female,14,189.23,2024-06-02,Morning,Yes,Cash
+57,Male,1,6.41,2024-08-17,Afternoon,No,Cash
+46,Male,10,76.44,2024-09-09,Evening,No,Mobile Payment
+19,Non-binary,11,178.65,2024-09-25,Afternoon,Yes,Cash
+33,Male,1,10.75,2024-10-06,Evening,Yes,Mobile Payment
+69,Non-binary,6,47.59,2024-05-19,Evening,No,Card
+45,Non-binary,13,81.78,2024-07-31,Morning,Yes,Card
+26,Non-binary,5,58.29,2024-08-02,Morning,No,Cash
+21,Non-binary,12,117.09,2024-08-23,Morning,Yes,Mobile Payment
+19,Male,16,111.28,2024-04-24,Afternoon,No,Mobile Payment
+34,Male,9,71.08,2024-06-29,Evening,Yes,Card
+47,Non-binary,3,49.7,2024-06-14,Evening,Yes,Card
+55,Male,8,76.9,2024-05-23,Afternoon,Yes,Mobile Payment
+35,Male,5,47.86,2024-07-10,Evening,No,Cash
+28,Male,8,57.49,2024-06-17,Afternoon,Yes,Card
+51,Female,3,35.36,2024-06-16,Morning,Yes,Cash
+64,Female,7,37.69,2024-05-23,Morning,Yes,Card
+43,Non-binary,16,223.87,2024-07-19,Morning,Yes,Mobile Payment
+36,Female,2,13.91,2024-07-11,Afternoon,Yes,Cash
+23,Male,20,132.48,2024-07-15,Afternoon,Yes,Card
+26,Non-binary,4,72.06,2024-04-30,Morning,Yes,Cash
+70,Male,10,181.25,2024-06-20,Morning,No,Card
+62,Non-binary,5,56.81,2024-07-21,Evening,Yes,Card
+69,Non-binary,20,157.88,2024-06-06,Evening,Yes,Card
+23,Non-binary,15,261.08,2024-08-07,Evening,No,Cash
+58,Female,2,32.22,2024-05-24,Evening,No,Cash
+27,Male,15,253.68,2024-10-04,Evening,Yes,Mobile Payment
+33,Non-binary,10,54.96,2024-06-06,Morning,Yes,Cash
+63,Male,8,157.65,2024-09-24,Afternoon,No,Mobile Payment
+46,Female,13,148.25,2024-08-05,Evening,No,Cash
+58,Non-binary,18,156.13,2024-08-24,Afternoon,No,Cash
+24,Female,5,74.64,2024-10-02,Evening,No,Mobile Payment
+62,Female,13,177.2,2024-08-21,Evening,Yes,Card
+36,Male,20,371.44,2024-06-15,Morning,Yes,Mobile Payment
+33,Non-binary,5,25.71,2024-07-31,Morning,Yes,Card
+61,Female,17,187.82,2024-04-22,Morning,Yes,Card
+59,Male,4,76.9,2024-09-05,Morning,Yes,Mobile Payment
+18,Non-binary,9,70.19,2024-04-13,Morning,No,Mobile Payment
+40,Non-binary,14,130.16,2024-06-23,Morning,Yes,Mobile Payment
+25,Non-binary,16,222.78,2024-07-15,Evening,No,Cash
+28,Non-binary,3,51.71,2024-06-27,Evening,No,Cash
+42,Non-binary,12,171.26,2024-08-18,Evening,No,Cash
+20,Male,12,199.46,2024-07-24,Morning,Yes,Card
+27,Female,5,51.83,2024-07-16,Afternoon,No,Card
+26,Male,16,267.16,2024-04-14,Evening,No,Mobile Payment
+26,Female,11,66.72,2024-09-19,Evening,Yes,Cash
+35,Female,9,153.71,2024-06-08,Afternoon,No,Mobile Payment
+39,Female,9,71.86,2024-09-15,Evening,No,Cash
+59,Female,6,112.66,2024-05-17,Evening,Yes,Cash
+56,Female,20,321.47,2024-09-25,Afternoon,No,Mobile Payment
+67,Non-binary,2,26.63,2024-05-04,Afternoon,No,Cash
+34,Female,15,152.35,2024-08-11,Afternoon,Yes,Mobile Payment
+63,Female,20,142.0,2024-07-29,Morning,No,Cash
+42,Non-binary,19,368.74,2024-05-29,Morning,Yes,Card
+45,Female,20,245.67,2024-07-03,Evening,Yes,Mobile Payment
+59,Female,2,24.79,2024-08-11,Evening,Yes,Mobile Payment
+24,Female,11,71.09,2024-07-20,Afternoon,Yes,Mobile Payment
+33,Male,5,82.43,2024-06-17,Morning,Yes,Cash
+41,Male,20,340.37,2024-07-30,Morning,Yes,Cash
+51,Non-binary,10,178.47,2024-09-04,Afternoon,Yes,Card
+64,Non-binary,12,230.83,2024-08-13,Afternoon,No,Cash
+40,Female,19,212.42,2024-05-18,Morning,No,Cash
+43,Male,14,241.56,2024-08-24,Afternoon,Yes,Cash
+61,Non-binary,9,117.73,2024-07-09,Evening,Yes,Cash
+49,Non-binary,10,93.83,2024-09-17,Morning,Yes,Card
+41,Male,4,22.45,2024-07-30,Afternoon,Yes,Cash
+54,Non-binary,10,174.25,2024-10-06,Evening,Yes,Mobile Payment
+51,Male,17,177.3,2024-04-14,Afternoon,No,Cash
+62,Non-binary,4,58.39,2024-06-02,Afternoon,No,Card
+66,Female,20,255.25,2024-09-10,Evening,No,Mobile Payment
+68,Male,11,112.69,2024-08-31,Afternoon,Yes,Card
+30,Non-binary,14,213.67,2024-09-19,Morning,No,Mobile Payment
+40,Non-binary,17,256.87,2024-06-07,Morning,Yes,Cash
+23,Male,9,150.07,2024-08-02,Afternoon,Yes,Cash
+47,Non-binary,13,125.72,2024-07-01,Afternoon,Yes,Cash
+19,Female,11,58.48,2024-07-26,Afternoon,No,Mobile Payment
+62,Male,20,306.56,2024-07-12,Evening,No,Cash
+49,Female,7,93.16,2024-04-14,Morning,No,Card
+23,Female,16,106.4,2024-07-08,Morning,Yes,Card
+51,Female,7,79.01,2024-05-02,Morning,Yes,Mobile Payment
+59,Female,2,23.2,2024-06-17,Morning,Yes,Card
+25,Female,16,281.76,2024-04-12,Morning,No,Card
+65,Male,6,55.87,2024-08-30,Afternoon,No,Cash
+43,Male,17,187.71,2024-06-12,Afternoon,No,Card
+23,Female,20,204.96,2024-08-16,Morning,No,Card
+65,Female,14,95.67,2024-06-18,Morning,No,Mobile Payment
+35,Male,12,178.56,2024-05-09,Afternoon,Yes,Mobile Payment
+60,Male,11,127.06,2024-05-21,Evening,Yes,Card
+37,Non-binary,16,179.46,2024-06-10,Morning,Yes,Mobile Payment
+67,Male,6,86.41,2024-09-26,Afternoon,No,Mobile Payment
+30,Non-binary,6,96.66,2024-07-29,Afternoon,Yes,Mobile Payment
+53,Male,6,78.65,2024-06-06,Evening,Yes,Mobile Payment
+52,Non-binary,6,60.17,2024-05-05,Morning,Yes,Cash
+34,Male,6,112.56,2024-07-02,Morning,No,Card
+55,Female,14,174.61,2024-08-31,Afternoon,No,Card
+35,Non-binary,14,89.51,2024-07-22,Afternoon,Yes,Mobile Payment
+49,Female,17,130.63,2024-08-12,Evening,Yes,Mobile Payment
+30,Male,14,216.6,2024-07-21,Evening,Yes,Card
+55,Non-binary,2,34.13,2024-06-13,Morning,Yes,Mobile Payment
+59,Female,8,80.73,2024-04-18,Afternoon,Yes,Cash
+27,Male,14,255.55,2024-05-04,Evening,Yes,Card
+23,Female,16,105.42,2024-10-02,Morning,Yes,Mobile Payment
+59,Male,4,20.92,2024-08-29,Morning,No,Cash
+54,Female,12,133.65,2024-06-30,Morning,Yes,Card
+55,Female,7,80.59,2024-05-30,Morning,No,Card
+46,Female,5,52.49,2024-05-11,Evening,No,Card
+30,Non-binary,16,130.08,2024-05-05,Evening,Yes,Cash
+65,Non-binary,4,42.06,2024-06-26,Morning,No,Mobile Payment
+41,Male,10,158.05,2024-06-29,Afternoon,Yes,Cash
+29,Female,7,95.15,2024-05-01,Morning,No,Cash
+51,Female,15,255.39,2024-09-10,Afternoon,No,Mobile Payment
+22,Female,5,43.72,2024-07-22,Afternoon,No,Mobile Payment
+35,Non-binary,7,134.64,2024-05-01,Afternoon,No,Mobile Payment
+47,Female,17,141.34,2024-09-25,Morning,No,Mobile Payment
+43,Male,17,170.81,2024-07-21,Afternoon,Yes,Mobile Payment
+46,Non-binary,4,58.46,2024-08-01,Afternoon,Yes,Card
+60,Non-binary,8,114.86,2024-10-06,Morning,No,Card
+25,Male,3,34.88,2024-09-17,Morning,Yes,Mobile Payment
+27,Male,6,107.04,2024-09-22,Evening,Yes,Mobile Payment
+39,Male,18,186.0,2024-04-19,Evening,No,Card
+22,Non-binary,13,203.14,2024-09-24,Evening,No,Card
+58,Female,10,108.75,2024-06-02,Evening,No,Card
+19,Non-binary,18,348.81,2024-04-22,Evening,No,Mobile Payment
+23,Non-binary,14,134.74,2024-04-14,Morning,No,Cash
+46,Non-binary,18,306.2,2024-05-22,Afternoon,No,Mobile Payment
+59,Female,2,11.06,2024-06-01,Evening,Yes,Cash
+36,Non-binary,18,220.69,2024-06-27,Evening,No,Mobile Payment
+19,Female,4,27.03,2024-09-29,Morning,Yes,Card
+53,Female,16,287.69,2024-05-16,Afternoon,No,Card
+63,Male,1,18.84,2024-04-29,Afternoon,Yes,Mobile Payment
+28,Female,15,88.83,2024-07-22,Evening,No,Card
+23,Non-binary,6,93.07,2024-08-11,Evening,Yes,Cash
+66,Male,8,59.88,2024-06-26,Evening,No,Cash
+54,Male,10,168.69,2024-09-25,Evening,Yes,Card
+59,Non-binary,6,88.17,2024-08-18,Evening,No,Mobile Payment
+18,Non-binary,1,5.47,2024-05-02,Afternoon,No,Mobile Payment
+54,Female,7,73.65,2024-08-28,Evening,Yes,Cash
+49,Female,4,23.01,2024-07-12,Afternoon,Yes,Mobile Payment
+47,Female,13,221.29,2024-05-05,Evening,Yes,Cash
+70,Female,3,36.36,2024-08-25,Evening,Yes,Card
+29,Male,5,36.75,2024-10-04,Morning,Yes,Cash
+61,Male,20,294.42,2024-09-15,Evening,No,Card
+47,Non-binary,15,97.29,2024-06-23,Evening,Yes,Mobile Payment
+59,Non-binary,6,78.28,2024-06-14,Afternoon,No,Cash
+46,Non-binary,14,70.5,2024-09-29,Morning,Yes,Cash
+29,Non-binary,14,84.32,2024-08-04,Afternoon,No,Card
+62,Male,7,58.44,2024-06-15,Afternoon,Yes,Cash
+42,Non-binary,11,76.77,2024-09-06,Morning,No,Cash
+64,Female,6,107.41,2024-08-18,Afternoon,No,Cash
+46,Female,20,351.27,2024-06-28,Morning,Yes,Mobile Payment
+39,Female,6,112.81,2024-04-28,Afternoon,Yes,Mobile Payment
+28,Male,18,291.34,2024-04-28,Morning,No,Cash
+57,Male,17,88.1,2024-06-05,Afternoon,Yes,Card
+62,Female,16,311.05,2024-07-12,Morning,No,Mobile Payment
+33,Male,17,115.04,2024-08-04,Afternoon,No,Cash
+66,Female,19,204.81,2024-07-27,Evening,Yes,Cash
+54,Non-binary,12,195.17,2024-09-30,Afternoon,Yes,Mobile Payment
+27,Non-binary,10,58.85,2024-07-24,Evening,Yes,Card
+51,Non-binary,9,92.43,2024-09-17,Evening,Yes,Mobile Payment
+69,Non-binary,20,271.26,2024-06-07,Evening,No,Card
+64,Male,9,93.81,2024-08-23,Morning,Yes,Mobile Payment
+26,Female,7,78.89,2024-08-04,Afternoon,Yes,Card
+53,Male,19,212.27,2024-04-29,Evening,No,Cash
+46,Male,15,266.29,2024-07-10,Morning,Yes,Mobile Payment
+22,Non-binary,19,196.39,2024-05-25,Morning,Yes,Card
+31,Non-binary,14,75.82,2024-10-04,Evening,No,Mobile Payment
+62,Female,15,170.38,2024-08-01,Morning,No,Card
+40,Female,15,238.15,2024-09-24,Afternoon,No,Cash
+34,Female,18,271.04,2024-09-01,Morning,No,Cash
+40,Female,1,15.88,2024-05-09,Evening,Yes,Cash
+18,Male,12,118.57,2024-09-12,Evening,Yes,Cash
+54,Non-binary,20,374.98,2024-06-25,Evening,No,Cash
+64,Male,5,34.59,2024-07-13,Evening,No,Card
+58,Male,19,111.41,2024-06-16,Evening,Yes,Mobile Payment
+42,Male,8,156.51,2024-07-24,Afternoon,No,Cash
+66,Male,14,231.76,2024-04-13,Afternoon,Yes,Card
+61,Female,10,173.87,2024-05-18,Morning,No,Cash
+61,Non-binary,16,159.84,2024-05-20,Evening,Yes,Card
+19,Female,12,235.84,2024-05-05,Morning,Yes,Mobile Payment
+26,Female,8,87.1,2024-07-29,Morning,No,Cash
+32,Non-binary,3,56.3,2024-07-05,Evening,Yes,Cash
+68,Non-binary,15,179.42,2024-06-06,Morning,No,Card
+35,Non-binary,16,187.54,2024-09-23,Afternoon,No,Mobile Payment
+52,Female,12,194.86,2024-04-21,Morning,No,Card
+69,Female,8,134.89,2024-09-28,Afternoon,No,Card
+42,Female,7,121.62,2024-05-19,Afternoon,Yes,Card
+48,Non-binary,7,131.69,2024-09-25,Evening,Yes,Cash
+60,Male,10,173.47,2024-06-25,Afternoon,No,Cash
+29,Male,15,166.19,2024-06-12,Evening,No,Mobile Payment
+34,Non-binary,4,71.14,2024-07-02,Evening,Yes,Mobile Payment
+53,Male,2,23.96,2024-04-13,Morning,No,Mobile Payment
+65,Non-binary,6,33.91,2024-08-09,Afternoon,Yes,Mobile Payment
+69,Non-binary,7,132.02,2024-06-19,Afternoon,No,Card
+26,Non-binary,11,123.92,2024-10-03,Afternoon,Yes,Mobile Payment
+57,Female,14,235.56,2024-09-07,Morning,No,Mobile Payment
+30,Female,14,163.21,2024-08-25,Morning,Yes,Cash
+22,Non-binary,10,99.39,2024-07-29,Morning,Yes,Mobile Payment
+49,Non-binary,12,81.57,2024-04-16,Morning,No,Card
+43,Female,18,159.9,2024-07-04,Evening,Yes,Mobile Payment
+46,Female,1,14.1,2024-07-19,Morning,No,Cash
+40,Male,14,165.9,2024-08-22,Evening,Yes,Mobile Payment
+21,Male,1,12.06,2024-09-25,Morning,No,Card
+52,Male,2,33.3,2024-04-26,Evening,No,Cash
