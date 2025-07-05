@@ -4,8 +4,8 @@ Analisis Perilaku Pembelian Pelanggan untuk Strategi Promosi Berbasis Data di Ch
 ## Repository Outline
 
 1. description.md - Penjelasan gambaran umum project
-2. P0M1_Sesilia_Virdha.ipynb - Notebook yang berisi pengolahan data dengan python
-3. P0M1_Sesilia_Virdha_dataset.csv - dataset bersih yang akan digunakan untuk analisis
+2. Sesilia_Virdha.ipynb - Notebook yang berisi pengolahan data dengan python
+3. Sesilia_Virdha_dataset.csv - dataset bersih yang akan digunakan untuk analisis
 4. dataset.csv - dataset yang kotor yang belum dilakukan data cleaning
 
 ## Problem Background
